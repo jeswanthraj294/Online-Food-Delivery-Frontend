@@ -1,5 +1,7 @@
 Online Food Delivery Frontend
 A modern, responsive frontend application for online food ordering and delivery services. This project provides an intuitive user interface for customers to browse restaurants, view menus, place orders, and track deliveries.
+
+
 🚀 Features
 
 User Authentication: Secure login and registration system
