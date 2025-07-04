@@ -18,12 +18,12 @@ Reviews & Ratings: Customer feedback system
 
 🛠️ Tech Stack
 
-Frontend Framework: React.js / Vue.js / Angular (specify your framework)
+Frontend Framework: React.js 
 Styling: CSS3 / Tailwind CSS / Bootstrap / Styled Components
-State Management: Redux / Context API / Vuex
+State Management: Redux 
 HTTP Client: Axios / Fetch API
-Routing: React Router / Vue Router / Angular Router
-Build Tool: Webpack / Vite / Create React App
+Routing: React Router 
+Build Tool: Parcel
 Package Manager: npm / yarn
 
 📋 Prerequisites
@@ -76,55 +76,3 @@ Menu Management: Add, update, or remove menu items
 Order Management: View and manage incoming orders
 Analytics: Track sales and customer feedback
 
-🏗️ Project Structure
-Online-Food-Delivery-Frontend/
-├── public/
-│   ├── index.html
-│   └── favicon.ico
-├── src/
-│   ├── components/
-│   │   ├── common/
-│   │   ├── auth/
-│   │   ├── restaurant/
-│   │   ├── menu/
-│   │   ├── cart/
-│   │   └── order/
-│   ├── pages/
-│   │   ├── Home/
-│   │   ├── Login/
-│   │   ├── Register/
-│   │   ├── Restaurant/
-│   │   ├── Cart/
-│   │   └── Profile/
-│   ├── services/
-│   │   ├── api.js
-│   │   ├── auth.js
-│   │   └── payment.js
-│   ├── utils/
-│   │   ├── helpers.js
-│   │   └── constants.js
-│   ├── styles/
-│   │   ├── global.css
-│   │   └── components/
-│   ├── App.js
-│   └── index.js
-├── .env.example
-├── package.json
-└── README.md
-🌐 API Integration
-This frontend application integrates with the following APIs:
-
-Authentication API: User registration, login, and session management
-Restaurant API: Restaurant listings, menu items, and details
-Order API: Order placement, tracking, and history
-Payment API: Payment processing and transaction management
-Location API: Address management and delivery tracking
-
-🎨 UI/UX Features
-
-Clean Design: Modern and intuitive user interface
-Responsive Layout: Seamless experience across all devices
-Dark/Light Mode: Toggle between different themes
-Loading States: Smooth loading animations and skeletons
-Error Handling: User-friendly error messages and fallbacks
-Accessibility: WCAG compliant design for all users
